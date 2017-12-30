@@ -23,3 +23,6 @@ Best articles, books or videos I've seen about Javascript
 
 ### Module Systems
 📄 [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
+
+### Best Practices and patterns
+📚 [JavaScript Patterns](https://www.goodreads.com/book/show/9422683-javascript-patterns)
