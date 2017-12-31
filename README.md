@@ -29,3 +29,4 @@ Best articles, books or videos I've seen about Javascript
 
 ### Redux
 📺 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+📄 [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
