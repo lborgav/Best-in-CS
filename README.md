@@ -25,6 +25,9 @@ Best articles, books or videos I've seen about Javascript
 📺 [Angular from scratch by Matthieu Lux at ng-europe 2014](https://www.youtube.com/watch?v=Mk2WwSxK218)
 
 ### Module Systems
+
+📄 [What Is AMD, CommonJS, and UMD?](https://www.davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
+
 📄 [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
 
 ### Redux
