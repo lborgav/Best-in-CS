@@ -1,6 +1,9 @@
 # Best-in-JS
 Best articles, books or videos I've seen about Javascript
 
+![JS](./js.png)
+
+
 ### History of JS
 📄 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 
