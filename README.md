@@ -1,6 +1,9 @@
 # Best-in-JS
 Best articles, books or videos I've seen about Javascript
 
+### History of JS
+📄 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+
 
 ### Object-Oriented JS
 📚 [The Principles of Object-Oriented JavaScript](https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript)
