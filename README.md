@@ -36,6 +36,9 @@ Best articles, books or videos I've seen about Javascript
 
 📄 [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
 
+📄[ES modules: A cartoon deep-dive
+](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) 
+
 ### Redux
 📺 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
