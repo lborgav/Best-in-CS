@@ -45,3 +45,6 @@ Best articles, books or videos I've seen about Javascript
 📄 [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
 📄 [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
+
+### Browser
+📄 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
