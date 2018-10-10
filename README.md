@@ -10,6 +10,7 @@ Best articles, books or videos I've seen about Javascript
 
 ### Object-Oriented JS
 📚 [The Principles of Object-Oriented JavaScript](https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript)
+📄 [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 
 ### Concurrency Model and Event Loop
 📺 [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
