@@ -49,3 +49,11 @@ Best articles, books or videos I've seen about Javascript
 
 ### Browser
 📄 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+### Reference
+📄 [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+📄 [The Modern Javascript Tutorial](https://javascript.info/)
+
+
+
