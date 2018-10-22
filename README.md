@@ -1,8 +1,18 @@
-# Best-in-JS
-Best articles, books or videos I've seen about Javascript
+# Best-in-CS
+My collection of best videos, articles and books about Computer Science
+
+## Summary
+
+- [HTML and CSS](#html-and-css)
+- [Javascript](#javascript)
+
+
+## HTML and CSS
+
+
+## Javascript
 
 ![JS](./js.png)
-
 
 ### History of JS
 📄 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
