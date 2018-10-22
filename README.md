@@ -6,12 +6,15 @@ My collection of best videos, articles and books about Computer Science
 - [HTML and CSS](#html-and-css)
 - [Javascript](#javascript)
 
+---
 
 ## HTML and CSS
 
 ### Tutorial
 
 📄 [html & css is hard](https://internetingishard.com/html-and-css/)
+
+---
 
 ## Javascript
 
@@ -67,6 +70,3 @@ My collection of best videos, articles and books about Computer Science
 📄 [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 📄 [The Modern Javascript Tutorial](https://javascript.info/)
-
-
-
